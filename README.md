@@ -1,6 +1,6 @@
 <img align="right" width="150" height="150" top="100" src="./assets/blueprint.png">
 
-# fe-project-template • ![license](https://img.shields.io/github/license/cairoeth/fe-project-template.svg) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
+# fe-project-template • ![license](https://img.shields.io/badge/license-Unlicense-blue.svg) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
 
 Versatile Fe Project Template using Foundry.
 
