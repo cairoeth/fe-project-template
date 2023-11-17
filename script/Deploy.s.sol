@@ -12,7 +12,7 @@ interface SimpleStore {
 }
 
 contract Deploy is Script {
-  function run() public returns (SimpleStore simpleStore) {
-    simpleStore = SimpleStore(FeDeployer.deploy("src/SimpleStore", "SimpleStore"));
-  }
+    function run() public returns (SimpleStore simpleStore) {
+        simpleStore = SimpleStore(FeDeployer.deploy("src/SimpleStore", "SimpleStore"));
+    }
 }
